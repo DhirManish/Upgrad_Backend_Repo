@@ -20,7 +20,7 @@ public class PasswordCryptographyProviderTest {
     private final PasswordCryptographyProvider cryptographyProvider = new PasswordCryptographyProvider();
 
     @Test
-    public void test1( {
+    public void test1() {
 
         String[] output = cryptographyProvider.encrypt(RAW_PASSWORD);
         String saltForDB = output[0];
