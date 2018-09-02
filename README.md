@@ -28,7 +28,7 @@ A step by step guide that helps you get a development env running
    - Alter default password by running `ALTER USER postgres WITH ENCRYPTED PASSWORD 'postgres@123'`;
    - Confirm the password by entering the command in user shell `postgres=# \password`
 
-    ```
+    ```##
     Note: If you wish not to change the default password of postgres, then change the password in the following application
     configuration
    1. datasource.password in movies-api/src/main/resources/application.yaml
