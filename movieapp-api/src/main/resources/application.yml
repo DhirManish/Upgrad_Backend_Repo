@@ -10,8 +10,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/moviedb
-    username: postgres
-    password: postgres@123
+    username: upgrad123
+    password: postgres123
 
   jpa:
     properties:
