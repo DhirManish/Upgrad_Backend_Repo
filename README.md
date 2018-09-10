@@ -1,6 +1,6 @@
 # Project Title
 
-Movies API serves backend services to manage movies, shows, artists and booking tickets. It has been built on Spring platform using spring-boot framework.
+Movies API serves backend services to manage movies, shows, artists and booking tickets. It has been built on Spring platform using spring-boot framework...
 
 ## Getting Started
 
